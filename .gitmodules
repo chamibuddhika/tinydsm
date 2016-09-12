@@ -1,0 +1,3 @@
+[submodule "splash2"]
+	path = splash2
+	url = git@github.com:staceyson/splash2.git
